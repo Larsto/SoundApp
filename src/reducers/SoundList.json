@@ -1,0 +1,50 @@
+[
+    {
+        "id": 0,
+        "type": "Guns",
+        "title": "Lazer",
+        "url": "pew2.acc"
+    },
+    {
+        "id": 1,
+        "type": "Guns",
+        "title": "Plasma",
+        "url": "plasma.wav"
+    },
+    {
+        "id": 2,
+        "type": "Guns",
+        "title": "Silenced Pistol",
+        "url": "pistolsilenced.wav"
+    },
+    {
+        "id": 3,
+        "type": "Guns",
+        "title": "Submachine Gun",
+        "url": "https://console.firebase.google.com/project/soundapp-21af2/storage/soundapp-21af2.appspot.com/files/submachinegun.wav"
+    },
+    {
+        "id": 4,
+        "type": "Guns",
+        "title": "AK47",
+        "url": "ak47.wav"
+    },
+    {
+        "id": 5,
+        "type": "Explosions",
+        "title": "Explosion Small",
+        "url": "explosion7.wav"
+    },
+    {
+        "id": 6,
+        "type": "Explosions",
+        "title": "Explosion Big",
+        "url": "explosion8.wav"
+    },
+    {
+        "id": 7,
+        "type": "Doors",
+        "title": "Creepy Door",
+        "url": "creepydoor.wav"
+    }
+]
